@@ -1,2 +1,0 @@
-# Negenhub
-By Thanh Khôi
